@@ -1,3 +1,7 @@
+https://github.com/MatthieuRoess/Bonfire/assets/123086572/55f44b1b-c9cf-4153-9264-b85480bc9e21
+
+https://github.com/MatthieuRoess/Bonfire/assets/123086572/eee6a5f4-3d56-4f3e-889b-7e9a83512d45
+
 ## Objectif du Projet
 
 L'objectif principal de ce projet est de fournir une plateforme de chat IRC conviviale et sécurisée, permettant aux utilisateurs de se connecter et d'échanger instantanément dans des salons de discussion personnalisés.
