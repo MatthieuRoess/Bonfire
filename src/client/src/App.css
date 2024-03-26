@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: url(./background.jpg);
+  font-family: "Lato", sans-serif;
+  background-size: cover;
+  background-position: center;
+}

@@ -1,0 +1,12 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+
+/* Dans votre fichier CSS */
+.avatar-name div {
+  font-size: 20px; 
+}

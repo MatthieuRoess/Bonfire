@@ -1,0 +1,12 @@
+# Dossiers et fichiers générés par Visual Studio Code
+.vscode/
+.settings/
+
+# Dossier mcd
+mcd/
+
+# Fichiers d'environnement
+.env
+.pdf
+
+node_modules
